@@ -1,7 +1,7 @@
 ## Hi, Im Daniel  <img src="https://github.com/DaniDuran/DaniDuran/blob/master/wave.gif" width="30px">
 ### Fancy seeing you here!
 
-People call me Dani, I'm currently finishing my degree in Systems Engineering at [Corporación Universitaria Minuto de Dios] (http://www.uniminuto.edu/). I am a technology enthusiast and an advocate of open source. I am always open to collaborate on innovative projects and ideas. Find out more about me and feel free to connect with me here:
+People call me Dani, I'm currently finishing my degree in Systems Engineering at [Corporación Universitaria Minuto de Dios](http://www.uniminuto.edu/). I am a technology enthusiast and an advocate of open source. I am always open to collaborate on innovative projects and ideas. Find out more about me and feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkeding_Daniel_Duran_Acevedo-0e76a8?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-duran-acevedo//)](https://www.linkedin.com/in/daniel-duran-acevedo/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp_3192276664-20603D?style=social-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+573192276664)](https://api.whatsapp.com/send?phone=+573192276664)
