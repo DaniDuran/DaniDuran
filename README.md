@@ -1,4 +1,4 @@
-## Hi, Im Daniel  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, Im Daniel  <img src="https://github.com/DaniDuran/DaniDuran/blob/master/wave.gif" width="30px">
 ### Fancy seeing you here!
 
 People call me Dani, I'm currently finishing my degree in Systems Engineering at [Corporación Universitaria Minuto de Dios] (http://www.uniminuto.edu/). I am a technology enthusiast and an advocate of open source. I am always open to collaborate on innovative projects and ideas. Find out more about me and feel free to connect with me here:
