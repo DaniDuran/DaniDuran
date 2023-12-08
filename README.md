@@ -33,12 +33,11 @@ Always eager to explore innovative projects and ideas, I thrive on collaborative
 
 ### My Coding Journey 🚀
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniduran&show_icons=true&count_private=false&bg_color=2A2D2F&title_color=0A7AC5&text_color=ffffff&icon_color=0A7AC5&hide_title=false&hide_border=false&hide_rank=false&include_all_commits=true&line_height=30)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniduran&show_icons=true&count_private=false&bg_color=2A2D2F&title_color=0A7AC5&text_color=ffffff&icon_color=0A7AC5&hide_title=false&hide_border=false&hide_rank=false&include_all_commits=true&line_height=21)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniduran&layout=compact&bg_color=2A2D2F&title_color=ffffff&text_color=ffffff)](https://github.com/daniduran/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=daniduran&color=2A2D2F)
 ![Total Commits](https://img.shields.io/github/commit-activity/w/daniduran/daniduran?label=Total%20Commits&color=2A2D2F&style=flat-square)
-
 
 
 
